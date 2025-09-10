@@ -1,0 +1,26 @@
+Full name:    Monokai Pro Spectrum
+Short name:   monokai-pro-spectrum
+
+Include: _metadata.colortemplate
+
+Background:   dark
+
+; Color palette
+Color:  dark1 #131313 ~
+Color:  dark2 #191919 ~
+Color:  background #222222 ~
+Color:  text #f7f1ff ~
+Color:  accent1  #fc618d ~
+Color:  accent2 #fd9353 ~
+Color:  accent3  #fce566 ~
+Color:  accent4 #7bd88f ~
+Color:  accent5  #5ad4e6 ~
+Color:  accent6  #948ae3 ~
+Color:  dimmed1 #bab6c0 ~
+Color:  dimmed2 #8b888f ~
+Color:  dimmed3 #69676c ~
+Color:  dimmed4 #525053 ~
+Color:  dimmed5 #363537 ~
+
+Include: _highlight.colortemplate
+

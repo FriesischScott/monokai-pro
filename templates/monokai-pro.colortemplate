@@ -1,0 +1,25 @@
+Full name:    Monokai Pro Octagon
+Short name:   monokai-pro-octagon
+
+Include: _metadata.colortemplate
+
+Background:   dark
+
+; Color palette
+Color:  dark1 #19181a ~
+Color:  dark2 #221f22 ~
+Color:  background #2d2a2e ~
+Color:  text #fcfcfa ~
+Color:  accent1  #ff6188 ~
+Color:  accent2 #fc9867 ~
+Color:  accent3  #ffd866 ~
+Color:  accent4 #a9dc76 ~
+Color:  accent5  #78dce8 ~
+Color:  accent6  #ab9df2 ~
+Color:  dimmed1 #c1c0c0 ~
+Color:  dimmed2 #939293 ~
+Color:  dimmed3 #727072 ~
+Color:  dimmed4 #5b595c ~
+Color:  dimmed5 #403e41 ~
+
+Include: _highlight.colortemplate

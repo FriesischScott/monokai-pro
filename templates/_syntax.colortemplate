@@ -1,0 +1,28 @@
+; Syntax highlight groups
+Character   accent6 background
+Boolean     accent6 background
+Comment     dimmed3 background
+Conditional accent1 background
+Constant    accent6 background
+Define      accent1 background
+Delimiter   text    background
+Exception   accent1 background
+Float       accent6 background
+Function    accent4 background
+Identifier  accent6    background
+Include     accent1 background
+Keyword     accent1 background
+Label       accent1 background
+Macro       accent4 background
+Number      accent6 background
+Operator    accent1 background
+PreCondit   accent1 background
+PreProc     accent3 background
+Repeat      accent1 background
+SpecialChar accent5 background
+SpecialComment dimmed3 background
+Statement   accent5 background
+String      accent3 background
+StorageClass accent1 background
+Todo        accent6 background bold
+Type        accent5 background

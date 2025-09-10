@@ -1,0 +1,26 @@
+Full name:    Monokai Pro Ristretto
+Short name:   monokai-pro-ristretto
+
+Include: _metadata.colortemplate
+
+Background:   dark
+
+; Color palette
+Color:  dark1 #191515 ~
+Color:  dark2 #211c1c ~
+Color:  background #2c2525 ~
+Color:  text #fff1f3 ~
+Color:  accent1  #fd6883 ~
+Color:  accent2 #f38d70 ~
+Color:  accent3  #f9cc6c ~
+Color:  accent4 #adda78 ~
+Color:  accent5  #85dacc ~
+Color:  accent6  #a8a9eb ~
+Color:  dimmed1 #c3b7b8 ~
+Color:  dimmed2 #948a8b ~
+Color:  dimmed3 #72696a ~
+Color:  dimmed4 #5b5353 ~
+Color:  dimmed5 #403838 ~
+
+Include: _highlight.colortemplate
+
