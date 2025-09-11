@@ -1,4 +1,5 @@
 ; Syntax highlight groups
+
 Character   accent6 base
 Boolean     accent6 base
 Comment     dimmed3 base
@@ -26,3 +27,14 @@ String      accent3 base
 StorageClass accent1 base
 Todo        accent6 base bold
 Type        accent5 base
+
+MatchParen accent3  base bold,underline
+IncSearch     dark2 accent3 bold
+Search      none  dimmed4
+Conceal dimmed3 base
+CursorColumn  none dark2 reverse
+
+DiffAdd accent4 base
+DiffChange accent2 base
+DiffDelete accent1 base
+

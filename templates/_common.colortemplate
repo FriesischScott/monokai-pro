@@ -1,5 +1,6 @@
 Include: _metadata.colortemplate
 
+Normal text base
 Include: _syntax.colortemplate
 
 Include: plugins/_lightline.colortemplate
