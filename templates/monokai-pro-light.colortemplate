@@ -1,14 +1,12 @@
 Full name:    Monokai Pro Light
-Short name:   monokai-pro-light
-
-Include: _metadata.colortemplate
+Short name:   monokai_pro_light
 
 Background:   light
 
 ; Color palette
 Color:  dark1 #d3cdcc ~
 Color:  dark2 #ede7e5 ~
-Color:  background #faf4f2 ~
+Color:  base #faf4f2 ~
 Color:  text #29242a ~
 Color:  accent1  #e14775 ~
 Color:  accent2 #e16032 ~
@@ -22,5 +20,5 @@ Color:  dimmed3 #a59fa0 ~
 Color:  dimmed4 #bfb9ba ~
 Color:  dimmed5 #d3cdcc ~
 
-Include: _highlight.colortemplate
+Include: _common.colortemplate
 

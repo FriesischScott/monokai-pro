@@ -1,14 +1,12 @@
 Full name:    Monokai Pro Machine
-Short name:   monokai-pro-machine
-
-Include: _metadata.colortemplate
+Short name:   monokai_pro_machine
 
 Background:   dark
 
 ; Color palette
 Color:  dark1 #161b1e ~
 Color:  dark2 #1d2528 ~
-Color:  background #273136 ~
+Color:  base #273136 ~
 Color:  text #f2fffc ~
 Color:  accent1  #ff6d7e ~
 Color:  accent2 #ffb270 ~
@@ -22,5 +20,5 @@ Color:  dimmed3 #6b7678 ~
 Color:  dimmed4 #545f62 ~
 Color:  dimmed5 #3a4449 ~
 
-Include: _highlight.colortemplate
+Include: _common.colortemplate
 

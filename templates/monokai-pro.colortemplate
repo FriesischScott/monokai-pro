@@ -1,14 +1,12 @@
 Full name:    Monokai Pro
-Short name:   monokai-pro
-
-Include: _metadata.colortemplate
+Short name:   monokai_pro
 
 Background:   dark
 
 ; Color palette
 Color:  dark1 #19181a ~
 Color:  dark2 #221f22 ~
-Color:  background #2d2a2e ~
+Color:  base #2d2a2e ~
 Color:  text #fcfcfa ~
 Color:  accent1  #ff6188 ~
 Color:  accent2 #fc9867 ~
@@ -22,4 +20,5 @@ Color:  dimmed3 #727072 ~
 Color:  dimmed4 #5b595c ~
 Color:  dimmed5 #403e41 ~
 
-Include: _highlight.colortemplate
+Include: _common.colortemplate
+

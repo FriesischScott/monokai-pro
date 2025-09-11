@@ -1,0 +1,5 @@
+Include: _metadata.colortemplate
+
+Include: _syntax.colortemplate
+
+Include: plugins/_lightline.colortemplate
