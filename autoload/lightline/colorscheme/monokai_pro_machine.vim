@@ -39,5 +39,5 @@ let s:p.normal.error    = [ [ s:black, s:red ] ]
 let s:p.normal.warning  = [ [ s:black, s:orange ] ]
 
 
-let g:lightline#colorscheme#monokai_pro#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#monokai_pro_machine#palette = lightline#colorscheme#flatten(s:p)
 
