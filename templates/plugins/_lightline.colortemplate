@@ -44,3 +44,7 @@ let s:p.normal.warning  = [ [ s:black, s:orange ] ]
 let g:lightline#colorscheme#monokai_pro#palette = lightline#colorscheme#flatten(s:p)
 
 endauxfile
+
+verbatim
+g:lightline = { 'colorscheme': '@shortname'}
+endverbatim
