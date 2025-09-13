@@ -7,7 +7,7 @@ let s:white        = [ '@text', @256text]
 let s:red          = [ '@accent1', @256accent1]
 let s:green        = [ '@accent4', @256accent4]
 let s:magenta      = [ '@accent6', @256accent6]
-let s:orange       = [ '@accent2', @256accent2]
+let s:orange       = [ '@orange', @256orange]
 
 let s:p = {'normal':{}, 'inactive':{}, 'insert':{}, 'replace':{}, 'visual':{}, 'tabline':{}}
 

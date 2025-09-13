@@ -6,6 +6,6 @@ License: MIT
 
 Environments: gui 256
 
-Term Colors: base accent1 accent4 accent3 accent2 accent6 accent5 text
-             dimmed3 accent1 accent4 accent3 accent2 accent6 accent5 text
+Term Colors: base accent1 accent4 accent3 orange accent6 accent5 text
+             dimmed3 accent1 accent4 accent3 orange accent6 accent5 text
 

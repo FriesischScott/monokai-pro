@@ -37,6 +37,6 @@ CursorColumn  none dark2 reverse
 Visual text selection
 
 DiffAdd accent4 base
-DiffChange accent2 base
+DiffChange orange base
 DiffDelete accent1 base
 
