@@ -5,4 +5,6 @@ Cursor cursor base
 
 Include: _syntax.colortemplate
 
+; Plugins
 Include: plugins/_lightline.colortemplate
+Include: plugins/_nerdtree.colortemplate

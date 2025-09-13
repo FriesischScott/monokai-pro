@@ -33,10 +33,21 @@ IncSearch     dark2 accent3 bold
 Search      none  selection
 Conceal dimmed3 base
 CursorColumn  none dark2 reverse
+SignColumn none base
 
+Title accent1 base
+Directory orange base
 Visual text selection
+
+Added accent4 base
+Removed accent1 base
 
 DiffAdd accent4 base
 DiffChange orange base
 DiffDelete accent1 base
+
+Question accent4 base
+WarningMsg accent1 base
+
+
 
