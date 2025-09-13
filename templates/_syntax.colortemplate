@@ -30,9 +30,11 @@ Type        accent5 base
 
 MatchParen accent3  base bold,underline
 IncSearch     dark2 accent3 bold
-Search      none  dimmed4
+Search      none  selection
 Conceal dimmed3 base
 CursorColumn  none dark2 reverse
+
+Visual text selection
 
 DiffAdd accent4 base
 DiffChange accent2 base

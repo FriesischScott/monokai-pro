@@ -24,6 +24,7 @@ hi Comment guifg=#69676c guibg=#222222 guisp=NONE gui=NONE ctermfg=242 ctermbg=2
 hi Conceal guifg=#69676c guibg=#222222 guisp=NONE gui=NONE ctermfg=242 ctermbg=235 cterm=NONE
 hi Conditional guifg=#fc618d guibg=#222222 guisp=NONE gui=NONE ctermfg=204 ctermbg=235 cterm=NONE
 hi Constant guifg=#948ae3 guibg=#222222 guisp=NONE gui=NONE ctermfg=104 ctermbg=235 cterm=NONE
+hi Cursor guifg=#bab6c0 guibg=#222222 guisp=NONE gui=NONE ctermfg=250 ctermbg=235 cterm=NONE
 hi CursorColumn guifg=NONE guibg=#191919 guisp=NONE gui=reverse ctermfg=NONE ctermbg=234 cterm=reverse
 hi Define guifg=#fc618d guibg=#222222 guisp=NONE gui=NONE ctermfg=204 ctermbg=235 cterm=NONE
 hi Delimiter guifg=#f7f1ff guibg=#222222 guisp=NONE gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
@@ -53,5 +54,6 @@ hi StorageClass guifg=#fc618d guibg=#222222 guisp=NONE gui=NONE ctermfg=204 cter
 hi String guifg=#fce566 guibg=#222222 guisp=NONE gui=NONE ctermfg=221 ctermbg=235 cterm=NONE
 hi Todo guifg=#948ae3 guibg=#222222 guisp=NONE gui=bold ctermfg=104 ctermbg=235 cterm=bold
 hi Type guifg=#5ad4e6 guibg=#222222 guisp=NONE gui=NONE ctermfg=45 ctermbg=235 cterm=NONE
+hi Visual guifg=#f7f1ff guibg=#525053 guisp=NONE gui=NONE ctermfg=255 ctermbg=239 cterm=NONE
 
 # vim: et ts=8 sw=2 sts=2

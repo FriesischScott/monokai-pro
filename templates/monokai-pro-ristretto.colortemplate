@@ -14,10 +14,10 @@ Color:  accent3  #f9cc6c ~
 Color:  accent4 #adda78 ~
 Color:  accent5  #85dacc ~
 Color:  accent6  #a8a9eb ~
-Color:  dimmed1 #c3b7b8 ~
+Color:  cursor #c3b7b8 ~
 Color:  dimmed2 #948a8b ~
 Color:  dimmed3 #72696a ~
-Color:  dimmed4 #5b5353 ~
+Color:  selection #5b5353 ~
 Color:  dimmed5 #403838 ~
 
 Include: _common.colortemplate
