@@ -1,19 +1,22 @@
-NERDTreeCWD accent5 base bold
-NERDTreeFile text base
-NERDTreeDir orange base bold
-NERDTreeLink accent4 base
+NERDTreeWinColor text none
+NERDTreeCWD accent5 none bold
+NERDTreeFile cursor none
+NERDTreeDir accent3 none
+NERDTreeUp accent3 none
+NERDTreeDirSlash accent6 none
+NERDTreeLink accent4 none
 
-NERDTreeGitStatusUnmerged accent1 base
-NERDTreeGitStatusModified orange base
-NERDTreeGitStatusStaged accent4 base
-NERDTreeGitStatusRenamed accent6 base
-NERDTreeGitStatusUntracked dimmed3 base
-NERDTreeGitStatusDirty orange base
-NERDTreeGitStatusDeleted accent1 base
-NERDTreeGitStatusIgnored accent5 base
-NERDTREEGitStatusClean text base
+NERDTreeGitStatusUnmerged accent1 none
+NERDTreeGitStatusModified orange none
+NERDTreeGitStatusStaged accent4 none
+NERDTreeGitStatusRenamed accent6 none
+NERDTreeGitStatusUntracked dimmed3 none
+NERDTreeGitStatusDirty orange none
+NERDTreeGitStatusDeleted accent1 none
+NERDTreeGitStatusIgnored accent5 none
+NERDTREEGitStatusClean text none
 
-NERDTreeHelpTitle accent1 base
-NERDTReeHelpKey accent5 base
-NERDTreeHelp accent3 base
-NERDTreeHelpCommand accent4 base
+NERDTreeHelpTitle accent1 none
+NERDTReeHelpKey accent6 none
+NERDTreeHelp accent3 none
+NERDTreeHelpCommand accent4 none

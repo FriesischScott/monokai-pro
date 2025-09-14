@@ -1,7 +1,6 @@
 Include: _metadata.colortemplate
 
 Normal text base
-Cursor cursor base
 
 Include: _syntax.colortemplate
 

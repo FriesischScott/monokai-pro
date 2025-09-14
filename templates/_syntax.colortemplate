@@ -1,5 +1,4 @@
 ; Syntax highlight groups
-
 Character   accent6 base
 Boolean     accent6 base
 Comment     dimmed3 base
@@ -10,7 +9,7 @@ Delimiter   text    base
 Exception   accent1 base
 Float       accent6 base
 Function    accent4 base
-Identifier  accent6    base
+Identifier  accent6 base
 Include     accent1 base
 Keyword     accent1 base
 Label       accent1 base
@@ -29,10 +28,18 @@ Todo        accent6 base bold
 Type        accent5 base
 
 MatchParen accent3  base bold,underline
+Cursor none dark2 reverse
+
+; Search
 IncSearch     dark2 accent3 bold
 CurSearch dark2 accent3 bold
 Search      none  selection
 Conceal dimmed3 base
+; Spelling
+SpellBad none none s=accent1 undercurl
+SpellRare none none s=accent6 undercurl
+SpellLocal none none s=accent5 undercurl
+SpellCap none none s=accent3 undercurl
 
 SignColumn none base
 ColorColumn base accent1
@@ -41,7 +48,7 @@ CursorLine none selection
 CursorLineSign none selection
 
 Title accent1 base
-Directory orange base
+Directory accent3 base
 Visual text selection
 
 Added accent4 base
@@ -57,4 +64,12 @@ WarningMsg accent1 base
 Folded accent6 selection
 
 LineNr dimmed3 base
+
+VertSplit cursor base
+
+EndOfBuffer dimmed3 base
+NonText dimmed3 base
+
+StatusLine accent4 dark2
+StatusLineNC dimmed3 dark2
 
