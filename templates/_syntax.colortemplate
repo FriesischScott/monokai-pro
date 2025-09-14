@@ -30,10 +30,15 @@ Type        accent5 base
 
 MatchParen accent3  base bold,underline
 IncSearch     dark2 accent3 bold
+CurSearch dark2 accent3 bold
 Search      none  selection
 Conceal dimmed3 base
-CursorColumn  none dark2 reverse
+
 SignColumn none base
+ColorColumn base accent1
+CursorColumn none selection
+CursorLine none selection
+CursorLineSign none selection
 
 Title accent1 base
 Directory orange base
@@ -49,5 +54,7 @@ DiffDelete accent1 base
 Question accent4 base
 WarningMsg accent1 base
 
+Folded accent6 selection
 
+LineNr dimmed3 base
 
