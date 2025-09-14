@@ -1,0 +1,19 @@
+NERDTreeCWD accent5 base bold
+NERDTreeFile text base
+NERDTreeDir orange base bold
+NERDTreeLink accent4 base
+
+NERDTreeGitStatusUnmerged accent1 base
+NERDTreeGitStatusModified orange base
+NERDTreeGitStatusStaged accent4 base
+NERDTreeGitStatusRenamed accent6 base
+NERDTreeGitStatusUntracked dimmed3 base
+NERDTreeGitStatusDirty orange base
+NERDTreeGitStatusDeleted accent1 base
+NERDTreeGitStatusIgnored accent5 base
+NERDTREEGitStatusClean text base
+
+NERDTreeHelpTitle accent1 base
+NERDTReeHelpKey accent5 base
+NERDTreeHelp accent3 base
+NERDTreeHelpCommand accent4 base
